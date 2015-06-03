@@ -1,0 +1,11 @@
+7
+3
+2.0 2.0 4.0
+6.0
+Mateus Alves,5.7,8.0,3.5
+Guilherme Ferreira,8.0,8.0,8.0
+Ferreira Guilherme,9.0,9.5,8.0
+Alves Mateus,5.0,5.0,5.0
+Fulano Teste,8.0,9.0,9.5
+Ciclano Teste,8.8,9.9,5.6
+Teste Teste,5.7,8.0,5.7
